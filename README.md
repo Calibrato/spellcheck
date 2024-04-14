@@ -21,13 +21,13 @@ I suck at spelling and this project was supposed to help me be better but it act
 ## Possible Extensions
 
 * Mass select + deleter character inputs
-
-* ## What is different in this fork?
-
-* All spelling issues have been fixed for better user experience. While i know they were purposeful and as a joke, i don't really like them.
-* Inserting characters without erasing
+* * Inserting characters without erasing
 * Multiple accept options
 * A version with game rooms and folks could follow the more traditional round and elimination format in spelling bees.
 * Adding more words
 * Word playback on results page
 * Ability to store list of words for future practice
+
+## What is different in this fork?
+
+* All spelling issues have been fixed for better user experience. While i know they were purposeful and as a joke, i don't really like them.
